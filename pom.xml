@@ -11,6 +11,9 @@
     <modules>
         <module>common</module>
         <module>config</module>
+        <module>gateway</module>
+        <module>register</module>
+        <module>client</module>
     </modules>
 
     <parent>
